@@ -9,30 +9,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-*Django
-
-```
-Give examples
-```
+You must have Django installed on the system along with Python 3. Django version: 1.10 and Python version 3.5.2
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Installation of Django can be referred to in this link: https://docs.djangoproject.com/en/1.10/intro/install/
+Relevant version of Python installation can be viewed here: https://www.python.org/downloads/
 
 
 
