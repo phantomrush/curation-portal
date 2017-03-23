@@ -28,6 +28,8 @@ You need to host it on a server which supports Django.
 * [Materialize.css](http://materializecss.com/) - Front End Framework
 * [JQuery](https://jquery.com/) - Makes JavaScript easier
 
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -56,7 +58,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 -Buttons hover effect on terashare: http://codepen.io/kavendish/pen/gJric/
 -Background image source on login, sign up and home page: http://www.iitgn.ac.in/new-campus/gallery/student_hostel/
 -Calendar Javascript: https://codepen.io/xmark/pen/WQaXdv
--Line-feature in bullets: (still locating source)
+-Line-feature in bullets on timetable: http://jsfiddle.net/5JP8Q/
+- [Kute.js](http://thednp.github.io/kute.js/): Example index.html used for making home screen animation
+
 
 
 
